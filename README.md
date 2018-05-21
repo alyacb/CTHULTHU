@@ -8,6 +8,14 @@ Why create another library for this when there are already excellent ones out th
 - I was once naive enough to think eigenvalue generation was trivial. I was sorely mistaken.
 
 ## Makefile Targets:
+Go to the src directory, and run either
+```
+make
+```
+or
+```
+make debug
+```
 - default: compiles all the classes
 - debug: compiles classes with debugging output enabled
 
