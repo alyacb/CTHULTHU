@@ -7,7 +7,7 @@ Why create another library for this when there are already excellent ones out th
 - I like C++.
 - I was once naive enough to think eigenvalue generation was trivial. I was sorely mistaken.
 
-## Makefile Targets:
+## Compiling & Running:
 Go to the src directory, and run either
 ```
 make
@@ -18,6 +18,12 @@ make debug
 ```
 - default: compiles all the classes
 - debug: compiles classes with debugging output enabled
+
+The code can be executed by running the generated executable, 'CTHULTHU'.
+```
+./CTHULTHU
+```
+At the moment, the program functionality is limited to running the unit-tests I have set-up using the 't' command. More to come...
 
 ## Fun facts:
 - The name was chosen because implementing this felt at times like fighting a giant dragon-octopus-anthropoid hybrid, i.e. CTHULTHU.
