@@ -26,4 +26,4 @@ The code can be executed by running the generated executable, 'CTHULTHU'.
 At the moment, the program functionality is limited to running the unit-tests I have set-up using the 't' command. More to come...
 
 ## Fun facts:
-- The name was chosen because implementing this felt at times like fighting a giant dragon-octopus-anthropoid hybrid, i.e. CTHULHU. The name was mispelled because I didn't know better at the time.
+- The name was chosen because implementing this felt at times like fighting a giant dragon-octopus-anthropoid hybrid, i.e. CTHULHU. The name was mispelled because I felt like a T was missing. :)
